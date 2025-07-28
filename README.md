@@ -1,9 +1,14 @@
+![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
+![License](https://img.shields.io/badge/License-MIT-green)
+![Libraries](https://img.shields.io/badge/Libraries-pandas%2C%20seaborn%2C%20sklearn-orange)
 # Customer Segmentation Using K-Means
 
 This project analyzes mall customer data to perform segmentation using the **K-Means clustering algorithm**.  
 The workflow is divided into three main sections:
 
 ---
+
+
 
 ## 1️⃣ Exploratory Data Analysis (EDA)
 
@@ -86,6 +91,10 @@ This plot shows how customers are grouped into 5 clusters based on their **Annua
 
 - Use clustering results to build **targeted marketing strategies**.
 - Potential extension: Deploy as a web app using **Streamlit**.
+
+## 👤 Author
+**Bijoy Paul**  
+[GitHub](https://github.com/BijoyBytes) | [LinkedIn](https://www.linkedin.com/in/bijoybytes/)
 
 ## ⚙️ Requirements
 
