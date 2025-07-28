@@ -1,13 +1,29 @@
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
 ![License](https://img.shields.io/badge/License-MIT-green)
 ![Libraries](https://img.shields.io/badge/Libraries-pandas%2C%20seaborn%2C%20sklearn-orange)
-# Customer Segmentation Using K-Means
+# Customer Segmentation using K-Means Clustering
 
-This project analyzes mall customer data to perform segmentation using the **K-Means clustering algorithm**.  
-The workflow is divided into three main sections:
+## 🎯 Objective
+- Segment mall customers into distinct groups based on their **purchasing behavior** and **demographic attributes**.
+- Help businesses create **targeted marketing campaigns**.
+- Enable **personalized customer experiences**.
+
+## 📂 Dataset
+- **File:** `Mall_Customers.csv`
+- **Description:** Contains customer details:
+  - Gender
+  - Age
+  - Annual Income (k$)
+  - Spending Score (1–100)
+
+## 🛠️ Steps Followed
+1. **Import necessary libraries** and load the dataset.
+2. **Explore and preprocess** the data.
+3. Apply **K-Means clustering** to group customers.
+4. **Visualize clusters** and interpret the results.
 
 ---
-
+## The workflow is divided into three main sections:
 
 
 ## 1️⃣ Exploratory Data Analysis (EDA)
@@ -84,6 +100,9 @@ This plot shows how customers are grouped into 5 clusters based on their **Annua
   - 🟪 Average income, average spending
   - 🟧 Low income, low spending
   - 🟩 High income, low spending
+    
+## 🔗 Project Link
+[Customer Segmentation using K-Means – Jupyter Notebook](https://github.com/BijoyBytes/customer-segmentation-using-k-means/blob/main/Customer%20Segmentation%20using%20K-Means%20Clustering.ipynb)
 
 ---
 
